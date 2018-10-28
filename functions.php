@@ -1,3 +1,5 @@
+<?php
+
 /**
 * Wordpress favicon helper function
 * the_favicon( int $width = '', int $height = '', string|array $attr = '')
